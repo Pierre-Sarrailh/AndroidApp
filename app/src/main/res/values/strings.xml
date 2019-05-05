@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rainman</string>
+    <string name="my_app_id">stitchrainman-ahumz</string>
+    <string name="title_activity_map_screen">Map</string>
+</resources>
